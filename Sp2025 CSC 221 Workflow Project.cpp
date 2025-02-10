@@ -7,15 +7,15 @@ using namespace std;
 
 int main()
 {
-    string first;
-    string middle;
-    string last;
+    string name;
+    string address;
+    string phoneNumber;
 
-    first = "Z";
-    middle = "A";
-    last = "S";
+    name = "Zachary Stephan";
+    address = "220 Fishneck Landing Rd.";
+    phoneNumber = "(757)746-0352";
 
 
-    cout << first << endl << middle << endl << last << endl;
+    cout << name << endl << address << endl << phoneNumber << endl;
     return 0;
 }
