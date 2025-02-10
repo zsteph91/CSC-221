@@ -7,7 +7,6 @@ using namespace std;
 
 int main()
 {
-
     string first;
     string middle;
     string last;
