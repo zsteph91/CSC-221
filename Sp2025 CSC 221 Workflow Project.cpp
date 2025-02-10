@@ -1,21 +1,17 @@
-// Sp2025 CSC 221 Workflow Project.cpp : Problem 2.14
+// Sp2025 CSC 221 Workflow Project.cpp : Problem 2.20
 //
 
 #include <iostream>
-#include <string>
 using namespace std;
 
 int main()
 {
-    string first;
-    string middle;
-    string last;
+    int age;
+    float weight;
 
-    first = "Z";
-    middle = "A";
-    last = "S";
+    age = 22;
+    weight = 220;
 
-
-    cout << first << endl << middle << endl << last << endl;
+    cout << "My age is " << age << " and my weight is " << weight << endl;
     return 0;
 }
